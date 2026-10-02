@@ -2,6 +2,9 @@
 
 An end-to-end HR analytics project using **SQL, Excel, and Tableau** to analyze employee attrition, workforce demographics, compensation, career progression, and employee experience.
 
+![Excel Dashboard](images/dashboard1.png) ![Excel Dashboard](images/dashboard2.png)
+
+
 ## 🛠️ Tools Used
 
 * **SQL** — Data cleaning, business analysis, CTEs & window functions
